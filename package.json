@@ -6,8 +6,7 @@
   "description": "State management for React Native",
   "license": "MIT",
   "private": true,
-  "scripts": {
-  },
+  "scripts": {},
   "dependencies": {
     "ascii-table": "0.0.9",
     "expensify-common": "git+https://github.com/Expensify/expensify-common.git#2e5cff552cf132da90a3fb9756e6b4fb6ae7b40c",
@@ -24,7 +23,7 @@
     "babel-plugin-transform-class-properties": "^6.24.1",
     "jsdoc-to-markdown": "^7.1.0",
     "prop-types": "^15.7.2",
-    "react": "^17.0.2",
+    "react": "^17.0.2"
   },
   "peerDependencies": {
     "localforage": "^1.10.0",
