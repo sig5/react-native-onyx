@@ -1,4 +1,7 @@
 module.exports = {
-    presets: [require('metro-react-native-babel-preset')],
-    plugins: [],
+    presets:[
+        "@babel/preset-env",
+        "@babel/preset-react"
+    ],
+    plugins: ["@babel/plugin-syntax-jsx"],
 };
